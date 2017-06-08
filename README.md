@@ -1,4 +1,4 @@
-
+# Barcodec
 Barcode check sum and create just one
 
 ![Screenshot software](https://image.ibb.co/hYWeTF/barcodec_screen_shoot.jpg "screenshot software")
